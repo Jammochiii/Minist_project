@@ -1,0 +1,8 @@
+mnist_project/
+│
+├── data                   # 实验数据
+├── data_utils.py          # 数据加载与预处理
+├── model.py               # 神经网络结构
+├── train.py               # 训练与测试流程
+├── feature_vis.py         # 特征提取与可视化
+└──  main.py               # 主入口
